@@ -23,7 +23,6 @@ public class EmployeeEn {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
-
     }
 
     public EmployeeEn() {
